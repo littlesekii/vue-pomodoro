@@ -12,7 +12,7 @@ import Timer from './components/Timer/Timer.vue';
         <Timer />
         <footer>
             <span class="madeby">Made by Davi Bacalhau ♥</span>     
-            <a class="madeby-link" href="http://littlesekii.com" target="_blank">littlesekii.com</a>
+            <a class="madeby-link" href="https://linky.cat" target="_blank">linky.cat</a>
         </footer>
     </main>
     
